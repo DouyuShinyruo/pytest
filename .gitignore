@@ -1,0 +1,20 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore cache
+.pytest_cache/
+__pycache__/
+
+# Ignore coverage reports
+htmlcov/
+
+# Ignore logs
+*.log
+
+# Ignore editor specific files
+.vscode/
+.idea/
+*.iml
